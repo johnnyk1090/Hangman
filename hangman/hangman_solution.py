@@ -9,12 +9,6 @@ import string # adding code for checking input
 
 # Download a package with english words
 # Natural Language Toolkit (nltk)
-import nltk
-
-# ATTENTION :
-# !!!!!! first UNCOMMENT the line below and then recomment it !!!!!
-
-# nltk.download('all')
 
 from nltk.corpus import words
  
