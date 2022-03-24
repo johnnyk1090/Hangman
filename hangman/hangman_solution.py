@@ -3,7 +3,6 @@ import string # adding code for checking input
 
 # Download a package with english words
 # Natural Language Toolkit (nltk)
-
 from nltk.corpus import words 
 
 class Hangman:
