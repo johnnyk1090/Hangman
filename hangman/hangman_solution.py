@@ -1,17 +1,10 @@
-'''
-Make sure you complete all the TODOs in this file.
-The prints have to contain the same text as indicated, don't add any more prints,
-or you will get 0 for this assignment.
-'''
-
 import random
 import string # adding code for checking input
 
 # Download a package with english words
 # Natural Language Toolkit (nltk)
 
-from nltk.corpus import words
- 
+from nltk.corpus import words 
 
 class Hangman:
     '''
