@@ -149,7 +149,7 @@ class Hangman:
 def play_game(word_list):
                 
     game = Hangman(word_list)                    
-    user_input = game.ask_letter()        
+    game.ask_letter()        
             
 if __name__ == '__main__':     
     word_list = words.words()
